@@ -1,5 +1,4 @@
 #summary Start here
-#labels Featured
 = AVbin =
 
 == Quickly ==
