@@ -20,9 +20,9 @@ AVbin is distributed as a single dynamic library (.so on Linux, .dylib on Mac OS
 
 Download the appropriate binary package from the downloads page.
 
-  * Windows users, this is *avbin-win32-1.zip*
-  * Mac OS X users, this is *avbin-darwin-universal-1.zip*
-  * Linux users, this is either *avbin-linux-x86-32-1.tar.gz* or *avbin-linux-x86-64-1.tar.gz*
+  * Windows users, this is *avbin-win32-3.zip*
+  * Mac OS X users, this is *avbin-darwin-universal-3.zip*
+  * Linux users, this is either *avbin-linux-x86-32-3.tar.gz* or *avbin-linux-x86-64-1.tar.gz*
 
 Inside the archive you will find a single shared library, which needs to be copied into the appropriate directory for your system.  Details can be found in the accompanying readme file.
 
